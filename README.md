@@ -52,5 +52,6 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
 </div>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/830508932619173929)](https://discord.com/users/830508932619173929)
 
 
