@@ -12,6 +12,8 @@
 
 <p align="left">Web Security Expert 📛👑<br>Kali Linux & Arch Linux🐧</p>
 
+[![](https://visitcount.itsvg.in/api?id=devjoji&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ###
 
 <div align="center">
@@ -42,7 +44,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" height="30" alt="perl logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="30" alt="discordjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="30" alt="firefox logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
+
 
 ###
 <h3 align="left">Contact me:</h3>
@@ -66,4 +77,4 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devjoji&theme=vision-friendly-dark&show_icons=true&locale=en&layout=compact" alt="devjoji" />
 </details>
 
-[![](https://visitcount.itsvg.in/api?id=devjoji&icon=0&color=0)](https://visitcount.itsvg.in)
+
