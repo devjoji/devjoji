@@ -45,6 +45,7 @@
 </div>
 
 ###
+<h3 align="left">Contact me:</h3>
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
@@ -55,3 +56,14 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/830508932619173929)](https://discord.com/users/830508932619173929)
 
 
+<details align="left">
+  <summary>:zap: Streaks</summary>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devjoji&theme=vision-friendly-dark" alt="devjoji" />
+</details>
+
+<details align="left">
+  <summary>:zap: Most Used Languages</summary>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devjoji&theme=vision-friendly-dark&show_icons=true&locale=en&layout=compact" alt="devjoji" />
+</details>
+
+[![](https://visitcount.itsvg.in/api?id=devjoji&icon=0&color=0)](https://visitcount.itsvg.in)
